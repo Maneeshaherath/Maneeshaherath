@@ -1,11 +1,11 @@
 <div align="center">
 
-Hi there, I'm Maneesha Herath! 👋
+Hi there, I'm Maneesha Herath! 🚀
 
-<h3>Backend Developer | Python Specialist | Cloud Enthusiast</h3>
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D2496ED%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DCS%2BEngineering%2BUndergraduate%3BBackend%2BEngineering%2BEnthusiast%3BCloud%2B%2526%2BDevOps%2BLearner%3BAlways%2BCoding%252C%2BAlways%2BLearning" alt="Typing SVG" />
 
 <p>
-Building robust financial systems and scalable APIs with modern DevOps practices.
+<em>Computer Science Engineering Student at the University of Moratuwa.</em>
 </p>
 
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/maneesha-herath-a8419034b">
@@ -21,55 +21,43 @@ Building robust financial systems and scalable APIs with modern DevOps practices
 
 👨‍💻 About Me
 
-I am a passionate Backend Developer focused on designing and implementing scalable server-side applications. My core expertise lies in Python ecosystems, specifically FastAPI, where I enjoy structuring complex data flows and ensuring high performance.
+I am a Computer Science Engineering undergraduate at the University of Moratuwa with a deep passion for software engineering. I enjoy exploring how large-scale systems are designed and understanding the intricacies of backend architecture.
 
-I am currently seeking opportunities to collaborate on Open Source projects and challenging Cloud Solutions.
+Currently, I am focused on mastering cloud-native technologies and scalable system design, while seeking opportunities to contribute to open-source projects and solve real-world engineering challenges.
 
-🔭 I’m currently working on: High-performance REST APIs and Financial System Architectures.
+🎓 Current Status: CSE Undergraduate @ UoM.
 
-💡 I’m interested in: System Design, Microservices, and Cloud Native Technologies.
+🔭 Learning: Advanced system design patterns and cloud infrastructure.
 
-🚀 My goal: To transform complex business requirements into elegant, automated digital solutions.
+💡 Hobbies: Automating workflows and keeping up with tech trends.
 
-🛠️ Tech Stack & Skills
+🧠 My Dev Workflow
+
+graph TD;
+    A[💡 Idea / Requirement] --> B{Planning};
+    B -->|Database Design| C[(Database)];
+    B -->|Logic| D[Backend Service];
+    C --> E[Core System];
+    D --> E;
+    E --> F[🐳 Containerization];
+    F --> G[🚀 Deployed Application];
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style G fill:#90EE90,stroke:#333,stroke-width:2px
+
+
+🛠️ Tech Stack
 
 <div align="center">
-
-Languages
-
-Backend Frameworks
-
-Database & Cloud
-
-DevOps & Tools
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub_Actions-2088FF%3Fstyle%3Dfor-the-badge%26logo%3Dgithub-actions%26logoColor%3Dwhite" alt="GitHub Actions" />
 </div>
 
-📊 GitHub Analytics
+📊 GitHub Stats
 
 <div align="center">
 <p>
@@ -82,5 +70,5 @@ DevOps & Tools
 <br />
 
 <div align="center">
-<sub>Let's build something amazing together.</sub>
+<sub><i>"Talk is cheap. Show me the code."</i> – Linus Torvalds</sub>
 </div>
