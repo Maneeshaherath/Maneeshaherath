@@ -1,51 +1,86 @@
-# Hello 👋, I'm Maneesha Herath!
+<div align="center">
 
-- 🎓 Backend developer specializing in Python, FastAPI, and cloud technologies.
-- 🚀 Passionate about building scalable APIs and robust financial systems.
-- 🤝 Open to collaborating on open-source, backend projects, and cloud solutions.
-- 💡 Interested in system architecture, automation, and modern DevOps practices.
-- 📬 How to reach me: [LinkedIn](www.linkedin.com/in/maneesha-herath-a8419034b)
-- ⚡ Fun fact: I love transforming ideas into digital solutions!
+Hi there, I'm Maneesha Herath! 👋
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maneeshaherath&show_icons=true&theme=github_dark" alt="Maneeshaherath's GitHub Stats" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maneeshaherath&theme=github-dark-blue" alt="GitHub Streak" width="420"/>
-</p>
-
----
-
-## Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneeshaherath&layout=compact&theme=github_dark" alt="Top Languages" width="420"/>
-</p>
-
----
-
-## Skills
+<h3>Backend Developer | Python Specialist | Cloud Enthusiast</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+Building robust financial systems and scalable APIs with modern DevOps practices.
 </p>
 
----
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/maneesha-herath-a8419034b">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:manee.sac.4321@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-c14438%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+</a>
 
-## Connect with Me
+</div>
 
+<br />
+
+👨‍💻 About Me
+
+I am a passionate Backend Developer focused on designing and implementing scalable server-side applications. My core expertise lies in Python ecosystems, specifically FastAPI, where I enjoy structuring complex data flows and ensuring high performance.
+
+I am currently seeking opportunities to collaborate on Open Source projects and challenging Cloud Solutions.
+
+🔭 I’m currently working on: High-performance REST APIs and Financial System Architectures.
+
+💡 I’m interested in: System Design, Microservices, and Cloud Native Technologies.
+
+🚀 My goal: To transform complex business requirements into elegant, automated digital solutions.
+
+🛠️ Tech Stack & Skills
+
+<div align="center">
+
+Languages
+
+Backend Frameworks
+
+Database & Cloud
+
+DevOps & Tools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+📊 GitHub Analytics
+
+<div align="center">
 <p>
-  <a href="www.linkedin.com/in/maneesha-herath-a8419034b">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:manee.sac.4321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DManeeshaherath%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Maneesha's GitHub Stats" height="180"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DManeeshaherath%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Top Languages" height="180"/>
 </p>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DManeeshaherath%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+<sub>Let's build something amazing together.</sub>
+</div>
